@@ -25,6 +25,14 @@
 		website="https://amwatah-dimba.netlify.app/"
 		github="https://github.com/amwatah/react-football-highlights"
 	/>
+	 <ProjectCard
+		project="Whatsapp Mock "
+		describtion=" A whats app mock wireframe built with sveltekit  "
+		website="https://amwatah-chat.vercel.app/"
+		github="https://github.com/amwatah/whatsnot"
+	/>
+	
+
   
 	
 </div>
