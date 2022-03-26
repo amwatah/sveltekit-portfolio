@@ -8,9 +8,9 @@
 	export let github;
 </script>
 
-<Tile class="col-span-12 sm:col-span-4 md:col-span-3 overflow-x-hidden ">
+<Tile class="col-span-12 sm:col-span-4 md:col-span-3 overflow-x-hidden  transition duration-500 hover:scale-[1.25] ">
 	<div
-		class="project-card flex flex-col gap-2  items-center border-2 border-[#4589FF]  "
+		class="project-card flex flex-col gap-2  items-center border-2 border-[#4589FF]   "
 	>
 		<section class="title  flex-[1] border-2 ">
 			{project}
