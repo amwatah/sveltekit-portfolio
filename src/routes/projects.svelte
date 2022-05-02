@@ -37,6 +37,12 @@
 		website="https://amwatah-counter.vercel.app/"
 		github="https://github.com/amwatah/beacon-pwa"
 	/>
+	<ProjectCard
+	project=" News app "
+	describtion="  Catch the latest headlines , built with svelteKit and RapidApi  "
+	website="https://amwatah-news-app.vercel.app/"
+	github="https://github.com/amwatah/sveltekit-news-app"
+/>
 	
 
   
