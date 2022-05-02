@@ -31,6 +31,12 @@
 		website="https://amwatah-chat.vercel.app/"
 		github="https://github.com/amwatah/whatsnot"
 	/>
+	 <ProjectCard
+		project=" Simple counter app "
+		describtion="  A counter PWA app  using next js  "
+		website="https://amwatah-counter.vercel.app/"
+		github="https://github.com/amwatah/beacon-pwa"
+	/>
 	
 
   
